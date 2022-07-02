@@ -1,9 +1,9 @@
 <?php
 
-define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASS', '');
-define('DB_NAME','ejemploandroid');
+define('DB_HOST', 'sql10.freesqldatabase.com');
+define('DB_USER', 'sql10503616');
+define('DB_PASS', '3144722469Ss');
+define('DB_NAME','sql10503616');
 
 header('Content-Type: text/html;charset=utf-8');
 
